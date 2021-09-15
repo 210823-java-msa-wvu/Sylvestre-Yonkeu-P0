@@ -11,6 +11,7 @@ Both users (Players and Administrators) can:
 Player can  can:
 
 1- Register for a user account
+
 2- Edit their Prefered position.
 3- View other team information
 4- Check table rankings
