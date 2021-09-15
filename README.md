@@ -1,7 +1,8 @@
 # Sylvestre-Yonkeu-P0
 
 # UserStories
-Description: Revature Soccer League
+TITLE:
+*Revature Soccer League*
 
 Both users (Players and Administrators) can:
 
@@ -31,10 +32,3 @@ League Administrator :
 5- delete a team
 
 6- Create a new team
-
-
- 
- 
- 
-
-
